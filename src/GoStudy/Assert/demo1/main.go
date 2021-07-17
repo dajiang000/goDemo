@@ -20,6 +20,7 @@ func main() {
 		fmt.Println("aa是A类型")
 	} else {
 		fmt.Println("aa不是A类型")
+		fmt.Println("哈哈哈")
 	}
 	fmt.Println(cc)
 
